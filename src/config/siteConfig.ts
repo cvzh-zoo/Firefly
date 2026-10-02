@@ -48,7 +48,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Demo site",
 
 	// 站点 URL
-	site_url: "https://vzfee.cc.cd",
+	site_url: "https://blog.vzfee.cc.cd",
 
 	// 站点描述
 	description:
